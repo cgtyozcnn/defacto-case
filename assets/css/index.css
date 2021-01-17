@@ -1,0 +1,17 @@
+:root {
+ 
+    --primary: #5563aa;
+    --secondary: #59be2b;
+    --success: #51B549;
+    --danger:#dc3545;
+    --lighter: #E6E6E6;
+    --light-pink: #FFEAE8;
+    --light-turquoise: #E8F1FF;
+    --light-green: #E2F7E1;
+  }
+
+.alert{
+    position: fixed !important;
+    bottom: 0 !important;
+    right: 10px !important;
+  }
